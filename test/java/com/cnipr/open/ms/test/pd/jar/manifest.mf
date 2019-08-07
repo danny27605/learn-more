@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./ lib/commons-lang-2.6.jar lib/commons-io-2.6.jar lib/slf4j-api-1.7.25.jar lib/logback-core-1.2.3.jar lib/logback-classic-1.2.3.jar
+Main-Class: com.cnipr.open.ms.test.pd.jar.filedown.FileDownloadByLog
+
